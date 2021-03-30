@@ -24,3 +24,7 @@ ZCZC W03  60 L23 Discord: pop quiz
 ZCZC W03 100 L02 ZOOM related
 ZCZC W03  90 L10 Assignment (General)
 ZCZC W03 150 L05 GSGS related
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03  60 L23 Discord: pop quiz
+ZCZC W03  45 L10 Assignment (General)
+ZCZC W03 135 L05 GSGS related
