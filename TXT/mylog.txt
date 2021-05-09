@@ -37,3 +37,6 @@ ZCZC W06  30 L45 Assignment (General)
 ZCZC W07  60 L23 Discord: pop quiz
 ZCZC W07  60 L45 Assignment (General)
 ZCZC W07 180 L05 GSGS related
+ZCZC W08  30 L23 Discord: pop quiz 
+ZCZC W08 300 L45 Assignment (General)
+ZCZC W08 180 L05 GSGS related
