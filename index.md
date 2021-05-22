@@ -10,6 +10,7 @@ My name is Anggito, feel free to explore!
 * [Week 06](W06)
 * [Week 07](W07)
 * [Week 08](W08)
+* [Week 09](W09)
 * [Log](https://antoniusanggito.github.io/os211/TXT/mylog.txt)
 * [Rank](https://antoniusanggito.github.io/os211/TXT/myrank.txt)
 * [GitHub](https://github.com/antoniusanggito/os211)
