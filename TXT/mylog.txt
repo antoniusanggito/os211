@@ -40,3 +40,8 @@ ZCZC W07 180 L05 GSGS related
 ZCZC W08  30 L23 Discord: pop quiz 
 ZCZC W08 300 L45 Assignment (General)
 ZCZC W08 180 L05 GSGS related
+ZCZC W09 480 L45 Assignment (General)
+ZCZC W09  30 L23 Scele related
+ZCZC W09  30 L03 Github related
+ZCZC W09 900 L45 Assignment (General)
+ZCZC W09 360 L45 Assignment (General)
